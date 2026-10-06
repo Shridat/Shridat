@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Full-stack ML applications.<br>I'm looking to collaborate on Ruby on Rails and Rust Projects.<br>Graduated and looking for new roles in SWE and the Data Science field.<br>I'm currently learning LLM and RAG architecture in NLP.<br>Ask me about anything machine learning and deep learning related.<br>I like to travel and I can cook. <br>
+I'm currently working on Full-stack ML applications.<br>I'm looking to collaborate on AI-integrated projects.<br>Graduated and looking for new roles in SWE and AI field.<br>I'm currently learning AI Agents and RAG architecture.<br>Ask me about anything machine learning and deep learning related.<br>I like to travel and I can cook. <br>
 
 
 ## 🌐 Socials:
